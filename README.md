@@ -20,9 +20,9 @@
 
 ## Preview
 
-![Dashboard Preview](image.png)
+![Dashboard Preview](dashboard.png)
 
-![Dashboard Preview](image-1.png)
+![Dashboard Preview](chart.png)
 
 ---
 
